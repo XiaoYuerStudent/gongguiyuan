@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jiemian_texing", "jiemian_texing\jiemian_texing.vcxproj", "{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Debug|x64.ActiveCfg = Debug|x64
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Debug|x64.Build.0 = Debug|x64
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Debug|x86.Build.0 = Debug|Win32
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Release|x64.ActiveCfg = Release|x64
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Release|x64.Build.0 = Release|x64
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Release|x86.ActiveCfg = Release|Win32
+		{2A1FE3F8-F85E-4544-B9A6-2567FB4F3512}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A7A6EF-0AEB-4756-B132-7F7CAA0D90D4}
+	EndGlobalSection
+EndGlobal
