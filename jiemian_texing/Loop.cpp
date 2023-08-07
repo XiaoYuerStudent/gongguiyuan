@@ -26,7 +26,7 @@ public:
 	double Lo_D;
 	double Lo_Tw;
 	double Lo_A;
-	double Lo_Sy = 2;
+	double Lo_Sy = 2.1;
 	double Lo_Sz = 2;
 	double Lo_Ixx;
 	double Lo_Iyy;
