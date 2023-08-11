@@ -18,29 +18,58 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Box.cpp">
+      <Filter>源文件\jiemian</Filter>
+    </ClCompile>
     <ClCompile Include="Circle.cpp">
-      <Filter>源文件\jiemian</Filter>
-    </ClCompile>
-    <ClCompile Include="Rectangle.cpp">
-      <Filter>源文件\jiemian</Filter>
-    </ClCompile>
-    <ClCompile Include="L.cpp">
-      <Filter>源文件\jiemian</Filter>
-    </ClCompile>
-    <ClCompile Include="T.cpp">
-      <Filter>源文件\jiemian</Filter>
-    </ClCompile>
-    <ClCompile Include="invert_T.cpp">
       <Filter>源文件\jiemian</Filter>
     </ClCompile>
     <ClCompile Include="I.cpp">
       <Filter>源文件\jiemian</Filter>
     </ClCompile>
-    <ClCompile Include="Box.cpp">
+    <ClCompile Include="invert_T.cpp">
+      <Filter>源文件\jiemian</Filter>
+    </ClCompile>
+    <ClCompile Include="L.cpp">
       <Filter>源文件\jiemian</Filter>
     </ClCompile>
     <ClCompile Include="Loop.cpp">
       <Filter>源文件\jiemian</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件\jiemian</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>源文件\jiemian</Filter>
+    </ClCompile>
+    <ClCompile Include="T.cpp">
+      <Filter>源文件\jiemian</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Loop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="T.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="L.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="invert_T.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

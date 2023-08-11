@@ -133,8 +133,19 @@
     <ClCompile Include="invert_T.cpp" />
     <ClCompile Include="L.cpp" />
     <ClCompile Include="Loop.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="T.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Box.h" />
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="I.h" />
+    <ClInclude Include="invert_T.h" />
+    <ClInclude Include="L.h" />
+    <ClInclude Include="Loop.h" />
+    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="T.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
